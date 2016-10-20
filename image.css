@@ -1,0 +1,25 @@
+body {
+	background: url(http://www.accounts.360websolution.com/theme/master/admin/images/main-bg.png); 
+}
+#thumbWrapper {
+	width: auto;
+	max-width: auto;
+	min-width: auto;
+    margin: 0px;
+    cursor: pointer;
+  
+}
+
+#thumbList {
+	display: inline
+	-webkit-column-count: 5;
+	-webkit-column-gap: auto;
+	-webkit-column-fill: auto;
+	-moz-column-count: 5;
+	-moz-column-gap: auto;
+	-moz-column-fill: auto;
+	column-count: 5;
+	column-gap: auto;
+	column-fill: auto;
+}
+
